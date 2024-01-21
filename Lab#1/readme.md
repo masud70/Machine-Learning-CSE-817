@@ -1,2 +1,3 @@
 # K-means Clustering Algorithm
+
 K-means clustering is a method of vector quantization that groups unlabeled data into clusters. It's a type of unsupervised learning algorithm that's used when data doesn't have defined categories or groups.
