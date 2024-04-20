@@ -17,4 +17,4 @@ This GitHub repository is my one-stop shop for conquering the world of Machine L
 
 So, grab your virtual sword (or keyboard), and feel free to explore the code within this repository. May the odds of becoming an ML master be ever in your favor!  
 
-**A big thanks to Instructor Name: **(Nasrin Sultana)[https://www.cu.ac.bd/public_profile/index.php?ein=5294]** for leading us through this exciting journey into the world of Machine Learning!**
+**A big thanks to Instructor Name: **[Nasrin Sultana](https://www.cu.ac.bd/public_profile/index.php?ein=5294)** for leading us through this exciting journey into the world of Machine Learning!**
